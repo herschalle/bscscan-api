@@ -1,7 +1,7 @@
 {
   "name": "bscscan-api",
   "version": "1.0.0",
-  "description": "API to etherscan with a simple interface",
+  "description": "API to bscscan with a simple interface",
   "main": "index.js",
   "scripts": {
     "test": "mocha -t 20000",
