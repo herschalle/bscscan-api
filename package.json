@@ -1,6 +1,6 @@
 {
-  "name": "etherscan-api",
-  "version": "10.3.0",
+  "name": "bscscan-api",
+  "version": "1.0.0",
   "description": "API to etherscan with a simple interface",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "arbiscan",
     "ethereum",
     "EtherScan.io",
+    "bscscan"
     "etherscan",
     "blockchain",
     "api",
@@ -25,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebs/etherscan-api.git"
+    "url": "git+https://github.com/herschalle/bscscan-api.git"
   },
   "author": "",
   "license": "ISC",
